@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dishant</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-<img align="right"alt="coding"width="400"src="https://imgs.search.brave.com/08K0uU_7Zv6lf1YDxa3Texwy7KIK-_NM02T9gHbeHgU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LXdhbGtpbmctY2F0/LTE3bWl0d2t6aXcy/eHp4eGsuZ2lm.gif">
+<img align="right"alt="coding"width="400"src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWVpYnRoYmk0bTJhM2JlejVraW9jOTBmZzJjem8yb3E2eDg0dDMxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishant-0407&label=Profile%20views&color=0e75b6&style=flat" alt="dishant-0407" /> </p>
 
