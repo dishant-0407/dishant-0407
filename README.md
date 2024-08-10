@@ -53,3 +53,5 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=dishant-0407&" alt="dishant-0407" />
     </div>
 </div>
+<img align="right" alt="coding" width="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWVpYnRoYmk0bTJhM2JlejVraW9jOTBmZzJjem8yb3E2eDg0dDMxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp">
+
